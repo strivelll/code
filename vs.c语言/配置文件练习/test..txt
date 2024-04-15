@@ -1,0 +1,9 @@
+#英雄Id
+heroid:aaa
+#英雄姓名
+heroname:yashe
+heroatk:lllll
+#防御力
+herodef:lllll
+#简介
+heroinfo:lllll

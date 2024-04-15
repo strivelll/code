@@ -1,0 +1,9 @@
+﻿  game.c
+  源.cpp
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl chush(char (* const)[3],int,int)" (?chush@@YAXQEAY02DHH@Z)，函数 "void __cdecl game(void)" (?game@@YAXXZ) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      chush
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl display(char (* const)[3],int,int)" (?display@@YAXQEAY02DHH@Z)，函数 "void __cdecl game(void)" (?game@@YAXXZ) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      display
+D:\编译\刷题\vs\三子棋\x64\Debug\三子棋.dll : fatal error LNK1120: 2 个无法解析的外部命令

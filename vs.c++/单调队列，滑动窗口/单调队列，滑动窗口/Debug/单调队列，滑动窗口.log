@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\编译\刷题\vs.c++\单调队列，滑动窗口\单调队列，滑动窗口\源.cpp(99,28): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\编译\刷题\vs.c++\单调队列，滑动窗口\单调队列，滑动窗口\源.cpp(99,35): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\编译\刷题\vs.c++\单调队列，滑动窗口\单调队列，滑动窗口\源.cpp(99,42): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  单调队列，滑动窗口.vcxproj -> D:\编译\刷题\vs.c++\单调队列，滑动窗口\Debug\单调队列，滑动窗口.exe

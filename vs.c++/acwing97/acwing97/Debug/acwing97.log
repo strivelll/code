@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\编译\刷题\vs.c++\acwing97\acwing97\源.cpp(13,38): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+D:\编译\刷题\vs.c++\acwing97\acwing97\源.cpp(19,38): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+  acwing97.vcxproj -> D:\编译\刷题\vs.c++\acwing97\Debug\acwing97.exe

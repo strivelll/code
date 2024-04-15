@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\编译\刷题\vs\冒号排序（指针）\源.cpp(6,11): error C2660: “qsort”: 函数不接受 1 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(60,23): message : 参见“qsort”的声明
+D:\编译\刷题\vs\冒号排序（指针）\源.cpp(9,17): warning C4474: printf: 格式字符串中传递的参数太多
+D:\编译\刷题\vs\冒号排序（指针）\源.cpp(9,17): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数

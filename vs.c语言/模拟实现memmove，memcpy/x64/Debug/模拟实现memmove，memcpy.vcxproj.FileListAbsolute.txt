@@ -1,0 +1,1 @@
+D:\编译\刷题\vs\模拟实现memmove，memcpy\x64\Debug\模拟实现memmove，memcpy.exe

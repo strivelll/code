@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "蓝桥杯第二次模拟赛", "蓝桥杯第二次模拟赛.vcxproj", "{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Debug|x64.ActiveCfg = Debug|x64
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Debug|x64.Build.0 = Debug|x64
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Debug|x86.Build.0 = Debug|Win32
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Release|x64.ActiveCfg = Release|x64
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Release|x64.Build.0 = Release|x64
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Release|x86.ActiveCfg = Release|Win32
+		{3C0C84E9-B61A-4D8E-AAFF-A7D3F06FDB47}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630B5426-2142-44BF-979E-3F51A12493D4}
+	EndGlobalSection
+EndGlobal

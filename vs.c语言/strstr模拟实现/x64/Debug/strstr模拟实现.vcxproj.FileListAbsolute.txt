@@ -1,0 +1,1 @@
+D:\编译\刷题\vs\strstr模拟实现\x64\Debug\strstr模拟实现.exe
